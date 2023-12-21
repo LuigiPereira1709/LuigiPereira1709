@@ -5,7 +5,7 @@ Eu sou um estudante de programação focado em dados e no back end, carioca e de
 ## Aprimorando
 
 ### Tratamento e Manipulação de Dados
-[<img src="https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png" alt="Pandas" width="150">](https://pt.wikipedia.org/wiki/Pandas_(software)) 🐼
+[<img src="https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png" alt="Pandas" width="150">](https://pt.wikipedia.org/wiki/Pandas_(software))
 [<img src="https://th.bing.com/th/id/R.bcf7b3c74d00d6ed1601f4bc7bcc015d?rik=VNlW20AbtSRV2A&pid=ImgRaw&r=0" alt="NumPy" width="100">](https://pt.wikipedia.org/wiki/NumPy) 🔢
 
 ### Visualização de Dados
