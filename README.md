@@ -9,7 +9,7 @@ Eu sou um estudante de programação focado em dados e no back end, carioca e de
 <img src="https://th.bing.com/th/id/R.bcf7b3c74d00d6ed1601f4bc7bcc015d?rik=VNlW20AbtSRV2A&pid=ImgRaw&r=0" alt="NumPy" width="100"> [NumPy](URL_DA_DESCRICAO) 🔢
 
 ### Visualização de Dados
-<img src="https://matplotlib.org/3.3.2/_images/sphx_glr_logos2_003.png" alt="Matplotlib" width="100"> [Matplotlib](URL_DA_DESCRICAO) 📊
+<img src="https://matplotlib.org/3.3.2/_images/sphx_glr_logos2_003.png" alt="Matplotlib" width="150"> [Matplotlib](URL_DA_DESCRICAO) 📊
 <img src="https://daxg39y63pxwu.cloudfront.net/images/blog/python-data-visualization-libraries/blobid0.png" alt="Seaborn" width="100"> [Seaborn](URL_DA_DESCRICAO) 📈
 
 ### Web Scraping
@@ -17,13 +17,13 @@ Eu sou um estudante de programação focado em dados e no back end, carioca e de
 
 ## Aprendendo
 
-<img src="https://mb.cision.com/Public/17151/logo/8a39257b6cb72fc3_org.png" alt="Beautiful Soup" width="100"> [Beautiful Soup](URL_DA_DESCRICAO) 🍵
-<img src="https://th.bing.com/th/id/OIP.X0mSX9ulMuEM286pHPjGfQHaD6?rs=1&pid=ImgDetMain" alt="PyAutoGUI" width="100"> [PyAutoGUI](URL_DA_DESCRICAO) 🤖
+<img src="https://mb.cision.com/Public/17151/logo/8a39257b6cb72fc3_org.png" alt="Beautiful Soup" width="150"> [Beautiful Soup](URL_DA_DESCRICAO) 🍵
+<img src="https://th.bing.com/th/id/R.99dbeca6804b50c5d3e22ed5b16cd0f1?rik=rUJ7QVMgUHW09A&pid=ImgRaw&r=0" alt="Streamlit" width="150">
 
 ## Vamos Conectar?
 
-- Email: luigipereira1001@gmail.com <img src="https://th.bing.com/th/id/R.5fde8767848afe4abe9044e4d85c4d5c?rik=gaKh6DUNAOQpnw&pid=ImgRaw&r=0" alt="Eamil" width="100">  📧
-- LinkedIn: <img src="https://th.bing.com/th/id/R.9006bedee6f187b0624b0cae1241cbe4?rik=IkW95tl%2bLqwlrQ&pid=ImgRaw&r=0" alt="LinkedIn" width="100"> 🔗
+-  <img src="https://th.bing.com/th/id/R.32fac7801ccb6957ef6fd939e21da2ab?rik=TbBHHW%2fGHMDlOw&pid=ImgRaw&r=0" alt="Eamil" width="50">  luigipereira1001@gmail.com 📧
+- <img src="https://th.bing.com/th/id/R.eae4d0ee63a360e0f6b0d2b151d9da34?rik=u6x6HrEDGbQC%2fQ&pid=ImgRaw&r=0" alt="LinkedIn" width="100"> 🔗
 
 # Tecnologias
 
