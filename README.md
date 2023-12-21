@@ -1,6 +1,6 @@
 # Olá, eu sou Luigi Pereira! 👋
 
-Eu sou um estudante de programação focado em dados e no back end, cariocca e desenvolvendo minha própria IA para me fazer companhia nos dias chuvosos.
+Eu sou um estudante de programação focado em dados e no back end, carioca e desenvolvendo minha própria IA para me fazer companhia nos dias chuvosos.
 
 ## Aprimorando
 
