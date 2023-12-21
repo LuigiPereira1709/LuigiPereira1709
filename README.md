@@ -17,8 +17,8 @@ Eu sou um estudante de programação focado em dados e no back end, carioca e de
 
 ## Aprendendo
 
-[<img src="https://mb.cision.com/Public/17151/logo/8a39257b6cb72fc3_org.png" alt="Beautiful Soup" width="150">](https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr/)
-[<img src="https://loic-nazaries.github.io/website/images/icons/streamlit.png" alt="Streamlit" width="125">](https://docs.kanaries.net/pt/topics/Streamlit/streamlit-config)
+[<img src="https://mb.cision.com/Public/17151/logo/8a39257b6cb72fc3_org.png" alt="Beautiful Soup" width="175">](https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr/)
+[<img src="https://loic-nazaries.github.io/website/images/icons/streamlit.png" alt="Streamlit" width="150">](https://docs.kanaries.net/pt/topics/Streamlit/streamlit-config)
 ## Vamos Conectar?
 
 - [<img src="https://th.bing.com/th/id/R.32fac7801ccb6957ef6fd939e21da2ab?rik=TbBHHW%2fGHMDlOw&pid=ImgRaw&r=0" alt="Email" width="100">](mailto:luigipereira1001@gmail.com)
