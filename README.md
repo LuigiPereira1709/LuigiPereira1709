@@ -39,7 +39,7 @@ Eu sou um estudante de programação focado em dados e no back end, carioca e de
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="80" width="80">](https://www.databricks.com/br/glossary/what-is-pycharm)
 
 
-## Vamos no conectar?
+## Vamos nos conectar?
 
 [<img src="https://th.bing.com/th/id/R.32fac7801ccb6957ef6fd939e21da2ab?rik=TbBHHW%2fGHMDlOw&pid=ImgRaw&r=0" alt="Email" width="80">](mailto:luigipereira1001@gmail.com) [<img src="https://th.bing.com/th/id/R.eae4d0ee63a360e0f6b0d2b151d9da34?rik=u6x6HrEDGbQC%2fQ&pid=ImgRaw&r=0" alt="LinkedIn" height="70" width="70">](https://www.linkedin.com/in/luigi-pereira-389875296/)
 
