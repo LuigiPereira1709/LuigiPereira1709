@@ -3,8 +3,8 @@ Sou um desenvolvedor backend carioca, apaixonado por programação. Atualmente, 
 
 **Tecnologias e Ferramentas:**
 
-- **Linguagens de Programação:** Java, Ruby, Python
-- **Bancos de Dados:** MySQL, PostgreSQL, SQLite 
+- **Linguagens de Programação:** Java, Ruby, Python, Lua
+- **Bancos de Dados:** MySQL, PostgreSQL, SQLite, MongoDB
 - **Controle de Versão:** Git
 - **IDE's:** Neovim
 
