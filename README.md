@@ -3,8 +3,9 @@ Sou um desenvolvedor backend carioca, apaixonado por programação. Atualmente, 
 
 **Tecnologias e Ferramentas:**
 
-- **Linguagens de Programação:** Java, Ruby, Python, Lua
+- **Linguagens de Programação:** Java, Golang, Python
 - **Bancos de Dados:** MySQL, PostgreSQL, SQLite, MongoDB
+- **AWS Services:** S3 Bucket, Cloudfront, EC2, IAM, Secrets Manager
 - **Controle de Versão:** Git
 - **IDE's:** Neovim
 
